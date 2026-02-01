@@ -9,7 +9,7 @@ Code, trained models, and datasets associated with the paper
 
 All experiments reported in the paper can be reproduced directly in Google Colab using the notebook below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guimatiolli/EV-soc-battery-ei-lstm-kf/blob/main/code/code_soc_lstm_kf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guimatiolli/EV-soc-battery-ei-lstm-kf/blob/main/code/code_soc_lstm_kfs.ipynb)
 
 This notebook is Colab-ready and automatically:
 - clones the repository,
